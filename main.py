@@ -1,4 +1,4 @@
-''' main.py for project 7 - dictionaries '''
+''' main.py for project - dictionaries '''
 
 from hashmap import HashMap
 
@@ -32,4 +32,5 @@ def main():
         print(f'{element[0]}\t\t{element[1]}')
     print()
 
-main()
+if __name__ == "__main__":
+    main()
