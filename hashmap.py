@@ -1,6 +1,6 @@
 '''
 Jared Bawden
-Project 7 - Dictionaries
+Project - Dictionaries
 '''
 
 class HashMap:
